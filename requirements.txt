@@ -5,3 +5,4 @@ uuid==1.30
 elevenlabs==0.2.8
 numpy==1.23.1
 pathlib==1.0.1
+gunicorn
